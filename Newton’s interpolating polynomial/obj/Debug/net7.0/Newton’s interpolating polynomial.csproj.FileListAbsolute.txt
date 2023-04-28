@@ -1,0 +1,18 @@
+C:\Users\VO\Desktop\Newton’s interpolating polynomial\Newton’s interpolating polynomial\bin\Debug\net7.0\Newton’s interpolating polynomial.exe
+C:\Users\VO\Desktop\Newton’s interpolating polynomial\Newton’s interpolating polynomial\bin\Debug\net7.0\Newton’s interpolating polynomial.deps.json
+C:\Users\VO\Desktop\Newton’s interpolating polynomial\Newton’s interpolating polynomial\bin\Debug\net7.0\Newton’s interpolating polynomial.runtimeconfig.json
+C:\Users\VO\Desktop\Newton’s interpolating polynomial\Newton’s interpolating polynomial\bin\Debug\net7.0\Newton’s interpolating polynomial.dll
+C:\Users\VO\Desktop\Newton’s interpolating polynomial\Newton’s interpolating polynomial\bin\Debug\net7.0\Newton’s interpolating polynomial.pdb
+C:\Users\VO\Desktop\Newton’s interpolating polynomial\Newton’s interpolating polynomial\obj\Debug\net7.0\Newton’s interpolating polynomial.csproj.AssemblyReference.cache
+C:\Users\VO\Desktop\Newton’s interpolating polynomial\Newton’s interpolating polynomial\obj\Debug\net7.0\Newton’s interpolating polynomial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VO\Desktop\Newton’s interpolating polynomial\Newton’s interpolating polynomial\obj\Debug\net7.0\Newton’s interpolating polynomial.AssemblyInfoInputs.cache
+C:\Users\VO\Desktop\Newton’s interpolating polynomial\Newton’s interpolating polynomial\obj\Debug\net7.0\Newton’s interpolating polynomial.AssemblyInfo.cs
+C:\Users\VO\Desktop\Newton’s interpolating polynomial\Newton’s interpolating polynomial\obj\Debug\net7.0\Newton’s interpolating polynomial.csproj.CoreCompileInputs.cache
+C:\Users\VO\Desktop\Newton’s interpolating polynomial\Newton’s interpolating polynomial\obj\Debug\net7.0\Newton’s interpolating polynomial.dll
+C:\Users\VO\Desktop\Newton’s interpolating polynomial\Newton’s interpolating polynomial\obj\Debug\net7.0\refint\Newton’s interpolating polynomial.dll
+C:\Users\VO\Desktop\Newton’s interpolating polynomial\Newton’s interpolating polynomial\obj\Debug\net7.0\Newton’s interpolating polynomial.pdb
+C:\Users\VO\Desktop\Newton’s interpolating polynomial\Newton’s interpolating polynomial\obj\Debug\net7.0\Newton’s interpolating polynomial.genruntimeconfig.cache
+C:\Users\VO\Desktop\Newton’s interpolating polynomial\Newton’s interpolating polynomial\obj\Debug\net7.0\ref\Newton’s interpolating polynomial.dll
+C:\Users\VO\Desktop\Newton’s interpolating polynomial\Newton’s interpolating polynomial\bin\Debug\net7.0\Newton’s_interpolating_polynomial.Data.dll
+C:\Users\VO\Desktop\Newton’s interpolating polynomial\Newton’s interpolating polynomial\bin\Debug\net7.0\Newton’s_interpolating_polynomial.Data.pdb
+C:\Users\VO\Desktop\Newton’s interpolating polynomial\Newton’s interpolating polynomial\obj\Debug\net7.0\Newton’s interpolating polynomial.csproj.CopyComplete
